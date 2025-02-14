@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "logo": "Portfolio",
+    "links": [
+      { "text": "Home", "href": "#home" },
+      { "text": "About", "href": "#about" },
+      { "text": "Projects", "href": "#projects" },
+      { "text": "Contact", "href": "#contact" }
+    ]
+  },
+  "home": {
+    "name":"Simran Sharma",
+    "title": "Welcome to My Portfolio",
+    "subtitle": " Web Developer"
+  },
+    "about": {
+      "title": "About Me",
+      "description": "I am a passionate full-stack developer skilled in building responsive web applications.",
+      "skills": [
+        { "name": "React" },
+        { "name": "JavaScript" },
+        { "name": "Node.js" },
+        { "name": "MongoDB" },
+        { "name": "Bootstrap" }
+      ],
+      "devops": [
+        { "name": "Jira" },
+        { "name": "GitLab" },
+        { "name": "Jenkins" }
+      ]
+    },  
+  
+ "projects": {
+  "title": "My Projects",
+  "list": [
+    {
+      "name": "Project 1",
+      "description": "Room Rental site using Mern stack.It is full stack website design to help peopele to find room for rent",
+      "image": "/assets/image1.PNG",
+      "github": "https://frontend-psi-navy.vercel.app/"
+    },
+    {
+      "name": "Project 2",
+      "description": "simple Portfolio with simple html, css",
+      "image": "/assets/img2.PNG",
+      "github": "https://simransharma111.github.io/portfolio.github.io/"
+    },
+    {
+      "name": "Project 3",
+      "description": "scrolling effect website using gsap",
+      "image": "/assets/scroll.PNG",
+      "github": "https://simransharma111.github.io/bloomproject/"
+    }
+  ]
+},
+
+  "contact": {
+    "title": "Contact Me",
+    "email": "ssa013386@gmail.com"
+  },
+    "footer": {
+      "socials": [
+        {
+          "name": "Facebook",
+          "icon": "FaFacebook",
+          "link": "https://www.facebook.com/share/Ax2rDa9Qyjn9uZ9R/?mibextid=qi2Omg"
+        },
+        {
+          "name": "Twitter",
+          "icon": "FaTwitter",
+          "link": ""
+        },
+        {
+          "name": "Instagram",
+          "icon": "FaInstagram",
+          "link": "https://www.instagram.com/roomrent2229?utm_source=qr&igsh=MXRveHc3MWhqZnB6cg=="
+        },
+        {
+          "name": "LinkedIn",
+          "icon": "FaLinkedin",
+          "link": "https://www.linkedin.com/in/simran-sharma-2a46232a4"
+        }
+      ]
+    }
+  }

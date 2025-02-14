@@ -1,0 +1,27 @@
+.contact {
+    padding: 80px 20px;
+    text-align: center;
+    background: #333;
+    color: white;
+  }
+  
+  .contact h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .contact p {
+    font-size: 18px;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .contact h2 {
+      font-size: 28px;
+    }
+  
+    .contact p {
+      font-size: 16px;
+    }
+  }
+  

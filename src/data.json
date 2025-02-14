@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "logo": "Portfolio",
+    "links": [
+      { "text": "Home", "href": "#home" },
+      { "text": "About", "href": "#about" },
+      { "text": "Projects", "href": "#projects" },
+      { "text": "Contact", "href": "#contact" }
+    ]
+  },
+  "home": {
+    "title": "Welcome to My Portfolio",
+    "subtitle": "Professional Web Developer"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a full-stack developer with expertise in React and MERN stack."
+  },
+ "projects": {
+  "title": "My Projects",
+  "list": [
+    {
+      "name": "Project 1",
+      "description": "Description of project 1.",
+      "image": "/assets/image1.PNG"
+    },
+    {
+      "name": "Project 2",
+      "description": "Description of project 2.",
+      "image": "/assets/img2.PNG"
+    }
+  ]
+},
+
+  "contact": {
+    "title": "Contact Me",
+    "email": "example@example.com"
+  },
+    "footer": {
+      "socials": [
+        { "icon": "fa-facebook", "link": "https://facebook.com" },
+        { "icon": "fa-twitter", "link": "https://twitter.com" },
+        { "icon": "fa-linkedin", "link": "https://linkedin.com" },
+        { "icon": "fa-github", "link": "https://github.com" }
+      ],
+      "copyright": "Your Name"
+    }
+  }
